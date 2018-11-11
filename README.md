@@ -12,4 +12,4 @@ Read below to learn how to play my Memory Game.  Enjoy!
 ## Built With
 
 * [Font Awesome](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css) - The icons used
-* [Google Fonts](https://fonts.googleapis.com/css?family=Coda) - Goggle Coda font used
+* [Google Fonts](https://fonts.googleapis.com/css?family=Coda) - Google Coda font used
